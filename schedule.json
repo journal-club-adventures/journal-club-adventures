@@ -1,4 +1,12 @@
-{ 
+{
+  
+   "1":
+                    { "title":"Correction",
+                      "date": "16052016",
+                      "author": "@lonsbio",
+                      "authorUrl": "http://twitter.com/lonsbio"
+                    },
+                    
   "0":
                     { "title":"(0,0) Story",
                       "date": "26012016",
