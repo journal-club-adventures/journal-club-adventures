@@ -1,5 +1,11 @@
 {
  
+   "3":
+                    { "title":"Reboot",
+                      "date": "17042020",
+                      "author": "@lonsbio",
+                      "authorUrl": "http://twitter.com/lonsbio"
+                    },
    "2":
                     { "title":"Almost",
                       "date": "08092017",
@@ -23,6 +29,12 @@
                     
   "-1":
                     { "title":"Trending",
+                      "date": "26012016",
+                      "author": "Ten Simple Rules for a Bioinformatics Journal Club",
+                      "authorUrl": "http://parkville-bioinformatics-journal-club.blogspot.com.au/"
+                    },
+  "-2":
+                    { "title":"Rule #1",
                       "date": "26012016",
                       "author": "Ten Simple Rules for a Bioinformatics Journal Club",
                       "authorUrl": "http://parkville-bioinformatics-journal-club.blogspot.com.au/"
